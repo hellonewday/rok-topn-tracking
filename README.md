@@ -11,6 +11,9 @@ You can customize it on a cron job to make a daily tracking system on KVK, or ex
 ```bash
 adb.exe start-server
 ```
+
+- Change the variable NUMBER_OF_GOVERNORS and KINGDOM to your own need.
+
 - Run the code
 
 - See the magic (kinda slow, don't want to be a hacker)
