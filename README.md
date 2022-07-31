@@ -1,5 +1,6 @@
-# rok-topn-tracking
-Rise Of Kingdoms Top-N All-kind-of-data tracking system
+# Rise of Kingdoms Top-N All personal data extracting system.
+
+You can customize it on a cron job to make a daily tracking system on KVK, or expose an API using Django/Flask to make a beatiful dashboard.
 
 ### Quickstart
 
